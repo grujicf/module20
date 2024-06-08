@@ -1,3 +1,3 @@
-module github.com/grujicf/module20/v2
+module github.com/grujicf/module20
 
 go 1.22
